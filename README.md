@@ -5,6 +5,7 @@
 - MySQL, Lombok, OpenApi, DTOs, Migrations
 # AplicacionListado de tareas por parte de Tata Consultancy Services
 - Detalles a perfeccionar :
+#
 ![1](https://github.com/Comando562/listartareas2/assets/119273389/f84459db-cda8-442b-a4e5-086948156f41)
 
 ![2](https://github.com/Comando562/listartareas2/assets/119273389/711a6b1b-ed07-4d2a-826f-bf6fe6a56912)
