@@ -1,8 +1,8 @@
 ### API LISTADO DE TAREAS
 ## ⚙️ Herramientas utilizadas de Desarrollo
-- Spring Boot, Spring Security, Spring Filter
+- Spring Boot
 - Hibernate, Flyway
-- MySQL, Lombok, OpenApi, DTOs, Migrations
+- MySQL, Lombok, Migrations
 # AplicacionListado de tareas por parte de Tata Consultancy Services
 - Detalles a perfeccionar :
 #
